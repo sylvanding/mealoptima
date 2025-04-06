@@ -1,0 +1,6 @@
+[submodule "china-food-composition-data"]
+	path = china-food-composition-data
+	url = https://github.com/Sanotsu/china-food-composition-data.git
+[submodule "coze_jwt_netlify"]
+	path = coze_jwt_netlify
+	url = https://github.com/sylvanding/generate-coze-jwt.git
